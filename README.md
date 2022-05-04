@@ -1,1 +1,2 @@
-sample
+npm install
+npm start
